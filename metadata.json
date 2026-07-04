@@ -1,0 +1,6 @@
+{
+  "name": "Replast",
+  "description": "Full-stack recycled plastic marketplace, procurement platform, and AI-powered computer vision classifier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
